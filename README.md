@@ -2,6 +2,7 @@
 
 Overview: This project is a three-part endeavor focused on SQL database management, with the final part emphasizing SQL database administration. It extended the Employee Database from the previous project by addressing real-world challenges. Through hands-on SQL tasks, the project involved optimizing database functionality, enhancing usability, and ensuring long-term stability. The scope included solving specific data issues raised by a supervisor, automating processes, and implementing advanced SQL features like user-defined functions and stored procedures.
 
+________________________________________
 **PART 1:** **Orders Database and SQL Queries** 
 In this project, I worked on the design and querying of an eCommerce orders database using **MS SQL Server Management Studio**. The database consisted of multiple tables, including customer orders, product details, and shipment methods. 
 
@@ -16,6 +17,7 @@ In this project, I worked on the design and querying of an eCommerce orders data
 •	Database Design and Schema Creation
 •	Data Validation and Referential Integrity
 
+________________________________________
 **PART 2:** **Employee Database and Management** 
 In this project, I worked with a human resources database system for a growing company, focusing on database creation, management, and testing using Microsoft Visio for ERD design and SQL scripts for database operations.
 
@@ -35,7 +37,8 @@ In this project, I worked with a human resources database system for a growing c
 •	Microsoft Visio for database modeling
 •	SQL scripting for table creation, data manipulation, and testing.
 
-**Project 3: SQL Database Administration**
+________________________________________
+**PART 3: SQL Database Administration**
 
 **Key tasks and solutions implemented include:**
 
